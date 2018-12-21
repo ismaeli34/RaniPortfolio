@@ -4,6 +4,9 @@ This application is especially made for my sister.
 
 ![screen_shot_gallery_app_1](https://user-images.githubusercontent.com/17925504/50331564-1671db00-0525-11e9-971a-447e4a3d0374.PNG)
 
+![screen_shot_gallery_app_2](https://user-images.githubusercontent.com/17925504/50331618-4c16c400-0525-11e9-882b-8cf7237ce824.PNG)
+
+
 
 ## Development server
 

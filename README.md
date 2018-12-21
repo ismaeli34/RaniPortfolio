@@ -1,6 +1,9 @@
-# FamilyApp
+# Gallery Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
+This application is especially made for my sister.
+
+![screen_shot_gallery_app_1](https://user-images.githubusercontent.com/17925504/50331564-1671db00-0525-11e9-971a-447e4a3d0374.PNG)
+
 
 ## Development server
 
